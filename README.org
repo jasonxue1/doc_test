@@ -29,7 +29,6 @@ hello()
 - [[https://github.com][GitHub 链接]]
 
 - *仓库内图片*（把图片放到 ~image/test.png~）：
-  #+ATTR_HTML: :width 300
   [[image/test.png]]
 
 - *外链图片*（URL 必须直接指向 .png/.jpg 等文件）：
