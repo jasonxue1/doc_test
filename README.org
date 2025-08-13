@@ -3,7 +3,7 @@
 #+DATE: 2025-08-13
 
 * 一级标题
-这是一个段落，用于测试 GitHub 对 Org 文件的基本渲染。
+这是一个 *段落* ，用于测试 GitHub 对 Org 文件的基本渲染。
 
 ** 二级标题
 - 列表项 1
@@ -28,10 +28,10 @@ hello()
 ** 链接与图片（Org 正确写法）
 - [[https://github.com][GitHub 链接]]
 
-- *仓库内图片*（把图片放到 ~image/test.png~）：
+- *仓库内图片* （把图片放到 ~image/test.png~）：
   [[image/test.png]]
 
-- *外链图片*（URL 必须直接指向 .png/.jpg 等文件）：
+- *外链图片* （URL 必须直接指向 .png/.jpg 等文件）：
   [[https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg]]
 
 ** 引用
