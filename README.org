@@ -28,7 +28,7 @@ hello()
 ** 链接与图片（Org 正确写法）
 - [[https://github.com][GitHub 链接]]
 
-- *仓库内图片* （把图片放到 ~image/test.png~）：
+- *仓库内图片* （把图片放到 ~image/test.png~ ）：
   [[image/test.png]]
 
 - *外链图片* （URL 必须直接指向 .png/.jpg 等文件）：
