@@ -28,9 +28,9 @@ hello()
 ** 链接与图片（Org 正确写法）
 - [[https://github.com][GitHub 链接]]
 
-- *仓库内图片*（把图片放到 ~images/logo.png~）：
-  #+CAPTION: 测试
-  [[file:images/test.png]]
+- *仓库内图片*（把图片放到 ~image/test.png~）：
+  #+ATTR_HTML: :width 300
+  [[image/test.png]]
 
 - *外链图片*（URL 必须直接指向 .png/.jpg 等文件）：
   [[https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg]]
